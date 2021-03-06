@@ -1,1 +1,1 @@
-# COSC310-ChatBot
+# COSC310-Friend-ChatBot
