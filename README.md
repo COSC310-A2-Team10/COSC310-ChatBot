@@ -18,7 +18,7 @@ pip install pyspellchecker
 run [main.py](https://github.com/COSC310-A2-Team10/COSC310-Friend-ChatBot/blob/main/main.py)
 
 ## Data flow
-`Preprocessing.py` --> `generate.py` --> `main.py`
+`preprocessing.py` --> `generate.py` --> `main.py`
 
 ## Some features
 1. the system can clean all punctuations in the sentence and convert sentence to lower case
