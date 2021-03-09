@@ -1,5 +1,3 @@
-from spellchecker import SpellChecker
-
 import string
 
 import nltk
