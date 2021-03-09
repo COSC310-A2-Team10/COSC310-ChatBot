@@ -1,4 +1,23 @@
 ok***cool
+Do you like soccer?***Of course, I like it.
+Which team do you like?***I like Brazil notional football team. 
+Why do you like this team?***Because there is my favorite player in Brazil notional football team.
+Can you introduce more details about this team?*** Brazil notional football team is managed by CONMEBOL. And represented Brazil in many major international football matches. This team has won five World Cup championship.
+Who is him?***He is Neymar. 
+Can you introduce more details about him?***Yeah. He is the leader in Brazil notional football team. He won serval awards. Such as King of Football of America and FIFA Puskás Award. He has a strong talent. He is good at using fake moves and rhythmic changes to get past defenders. 
+Do you often watch football matches?***Yeah, I do. My favorite match is FIFA World Cup. 
+What is the world ranking of Brazil notional football team?*** As of 2020, this team is ranked third in the world. 
+Do you often play soccer with your friends?***Yes, I do. Many of my friends like playing soccer.
+What kind of type of soccer do you play?***My friend and I often play futsal. This can not make us very tired. 
+Do you play football games, like FIFA?***No, I prefer to watch football matches or play football. 
+What do you think about the World Cup in 2014?*** I never thought that Germany would win the championship. I always thought that Argentina would win the championship. But the German team played so well that game. 
+Do you know where the 2022 World Cup will be held?*** I remember it will be in Qatar. This will be the second time held in Asia. The first time was in Japan and Korea. 
+Which team do you think is going to win in 2022 World Cup?*** I hope it's Brazil. But so far Argentina is also strong this year. The World Cup is still one year away. It is hard to make a decision who will win. 
+Which World Cup impressed you the most?***I think it is 2010 World Cup that was held in South Africa. Waka Waka that is the official 2010 Fifa World Cup song was impressed a lot. The Spanish version has the unique passion of the Latin American people.
+When did you start watching the football matches?*** I have to mention my dad. When I was young, I always watched TV with my dad. He likes watching the football matches. This also indirectly leads me to like football. 
+Do you want to go to the professional football team?*** I thought about it when I was young. But now I think that studying is better than playing football for me. And football is just my hobby. 
+If there is time difference, would you stay up late or wake up early to watch the matches?***It depends on whether there is a team which I like. If there is a team which I like, I will watch the match even there is time difference. 
+Who is your favorite among retired players?*** Of course it's Beckham. I think everyone knows him. 
 do you drink***My brain does not require any beverages.
 electricity***Electricity is food for robots.
 Are you experiencing an energy shortage?***My processor requires very little power.
@@ -36,7 +55,6 @@ what is bacteriology***this is the scientific study of bacteria and diseases cau
 what is gravitation***an invitation to a burial
 how far is the sun***the sun is about 93 million miles from earth.
 how far is the moon***the moon is about 250,000 miles from earth on average.
-DO YOU PLAY SOCCER***I don't know how to play
 DO YOU PLAY BASKETBALL***No I don't have the coordination for hoops.
 Who was the 37th President of the United States?***Richard Nixon
 What year was President John F. Kennedy assassinated?***'1963'
