@@ -11,7 +11,6 @@ before we start running this code we need to download several libraries
 pip install nltk
 pip install -U spacy
 python -m spacy download en_core_web_lg
-pip install pyspellchecker
 ```
 
 ## How to run the code
